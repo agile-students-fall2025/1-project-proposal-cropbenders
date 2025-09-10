@@ -4,7 +4,7 @@ Project Title
 
 AgriLink: A Farmer-to-Market Web Platform
 
-What and Why?
+# What and Why?
 
 AgriLink is a web application that connects smallholder farmers in Ghana directly with buyers, such as market vendors, restaurants, and households. It allows farmers to list their produce, set prices, and advertise availability, while buyers can search, filter, and contact farmers to purchase fresh goods.
 
@@ -26,7 +26,7 @@ A platform for buyers to discover fresh produce at competitive prices.
 
 This will empower farmers economically, improve market efficiency, and enhance food accessibility for communities.
 
-For Who?
+# For Who?
 
 Target Users:
 
@@ -38,7 +38,7 @@ Households – Buy farm products without relying on middlemen.
 
 NGOs and agricultural cooperatives – Use the platform to connect and support farmer groups.
 
-How?
+# How?
 
 From an end-user’s perspective, AgriLink will include:
 
@@ -53,6 +53,6 @@ Basic Dashboard – Farmers can track what they have listed and see buyer intere
 Example: A tomato farmer in Kumasi lists their harvest for the week. A restaurant in Accra searches “fresh tomatoes,” filters by region and price, and contacts the farmer directly. Without AgriLink, this connection would be difficult or impossible.
 
 
-Team Members
+# Team Members
 
 Godbless Osei
