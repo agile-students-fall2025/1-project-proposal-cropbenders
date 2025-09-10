@@ -26,8 +26,6 @@ This will empower farmers economically, improve market efficiency, and enhance f
 
 # For Who?
 
-Target Users:
-
 Smallholder farmers – List produce, reach new buyers, and earn fair prices.
 
 Market vendors and restaurants – Source fresh produce directly from farmers.
@@ -47,8 +45,6 @@ Product Search & Filters – Buyers search by product type, price range, or loca
 Buyer-Farmer Communication – Simple contact system (e.g., phone/email integration) for direct negotiation.
 
 Basic Dashboard – Farmers can track what they have listed and see buyer interest.
-
-
 
 # Team Members
 
