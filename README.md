@@ -1,8 +1,6 @@
 # Project Proposal
 
-Project Title
-
-AgriLink: A Farmer-to-Market Web Platform
+# AgriLink: A Farmer-to-Market Web Platform
 
 # What and Why?
 
@@ -56,3 +54,5 @@ Example: A tomato farmer in Kumasi lists their harvest for the week. A restauran
 # Team Members
 
 Godbless Osei
+Bismark Buer
+Gharbin Benard
