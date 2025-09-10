@@ -1,53 +1,56 @@
-# Project Proposal
+# Project Title
 
-# AgriLink: A Farmer-to-Market Web Platform
+**AgriLink: A Farmer-to-Market Web Platform**
 
-# What and Why?
 
-AgriLink is a web application that connects smallholder farmers in Ghana directly with buyers, such as market vendors, restaurants, and households. It allows farmers to list their produce, set prices, and advertise availability, while buyers can search, filter, and contact farmers to purchase fresh goods.
+## What and Why?
 
-Farmers in often face challenges such as:
+**AgriLink** is a web application that connects smallholder farmers directly with buyers such as market vendors, restaurants, and households. It enables farmers to list their produce, set fair prices, and advertise availability, while buyers can easily search, filter, and connect with farmers to purchase fresh goods.
 
-Limited access to buyers beyond their immediate community.
+Farmers often face challenges such as:
 
-Dependence on middlemen who take a large share of profits.
+* **Limited access to buyers** beyond their immediate community.
+* **Dependence on middlemen** who take a large share of profits.
+* **Lack of visibility** on fair pricing and market demand.
 
-Lack of visibility on fair pricing and market demand.
+**AgriLink** addresses these issues by creating:
 
-AgriLink addresses these issues by providing:
+* A **digital marketplace** for direct farmer-to-buyer transactions.
+* Simple **tools for farmers** to advertise and manage their products.
+* A transparent platform for **buyers to discover fresh produce** at competitive prices.
 
-A digital marketplace for direct farmer-to-buyer transactions.
+This solution empowers farmers economically, increases market efficiency, and improves food accessibility for communities.
 
-Tools for farmers to advertise and manage their products.
 
-A platform for buyers to discover fresh produce at competitive prices.
+## For Whom?
 
-This will empower farmers economically, improve market efficiency, and enhance food accessibility for communities.
+**Target Users:**
 
-# For Who?
+* **Smallholder farmers** – to list produce, reach new buyers, and earn fair prices.
+* **Market vendors and restaurants** – to source fresh produce directly from farmers.
+* **Households** – to buy farm products without relying on middlemen.
+* **NGOs and agricultural cooperatives** – to connect and support farmer groups.
 
-Smallholder farmers – List produce, reach new buyers, and earn fair prices.
 
-Market vendors and restaurants – Source fresh produce directly from farmers.
+## How?
 
-Households – Buy farm products without relying on middlemen.
+From an end-user’s perspective, **AgriLink** will offer:
 
-NGOs and agricultural cooperatives – Use the platform to connect and support farmer groups.
+* **Farmer Profiles & Listings** – Farmers register, upload product details (name, quantity, price, availability), and add photos.
+* **Product Search & Filters** – Buyers search by product type, price range, or location.
+* **Buyer-Farmer Communication** – Built-in contact system (phone/email integration) for direct negotiation.
+* **Basic Dashboard** – Farmers track listed products and monitor buyer interest.
 
-# How?
 
-From an end-user’s perspective, AgriLink will include:
 
-Farmer Profiles & Listings – Farmers register, upload product details (name, quantity, price, availability), and add photos.
+## Scope
 
-Product Search & Filters – Buyers search by product type, price range, or location.
+AgriLink is scoped appropriately for a semester project:
 
-Buyer-Farmer Communication – Simple contact system (e.g., phone/email integration) for direct negotiation.
+* **Ambitious enough:** Requires user authentication, farmer/buyer roles, database storage for products, and searchable/filterable listings.
+* **Not too difficult:** Payment integration and logistics (delivery) will be excluded in the MVP. The initial focus will be on listings, search, and farmer–buyer connection. Advanced features (e.g., ratings, analytics, mobile money) can be considered in future iterations.
 
-Basic Dashboard – Farmers can track what they have listed and see buyer interest.
-
-# Team Members
-
-Godbless Osei
-Bismark Buer
-Gharbin Benard
+## Team
+* Godbless Osei
+* Bernard Gharbin
+* Bismark Buernotey Buer
