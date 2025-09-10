@@ -1,4 +1,4 @@
-## AgriLink: A Farmer-to-Market Web Platform**
+## AgriLink: A Farmer-to-Market Web Platform
 
 
 ## What and Why?
