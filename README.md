@@ -43,10 +43,10 @@ From an end-user’s perspective, **AgriLink** will offer:
 
 ## Scope
 
-AgriLink is scoped appropriately for a semester project:
+AgriLink should be scoped appropriately for the semester project:
 
-* **Ambitious enough:** Requires user authentication, farmer/buyer roles, database storage for products, and searchable/filterable listings.
-* **Not too difficult:** Payment integration and logistics (delivery) will be excluded in the MVP. The initial focus will be on listings, search, and farmer–buyer connection. Advanced features (e.g., ratings, analytics, mobile money) can be considered in future iterations.
+* Requires user authentication, farmer/buyer roles, database storage for products, and searchable/filterable listings.
+* Payment integration and logistics (delivery) will be excluded in the MVP. The initial focus will be on listings, search, and farmer–buyer connection. Advanced features (e.g., ratings, analytics, mobile money) can be considered in future iterations.
 
 ## Team
 * Godbless Osei
