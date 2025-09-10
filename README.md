@@ -1,52 +1,25 @@
-## AgriLink: A Farmer-to-Market Web Platform
-
+# AgriLink
 
 ## What and Why?
 
-**AgriLink** is a web application that connects smallholder farmers directly with buyers such as market vendors, restaurants, and households. It enables farmers to list their produce, set fair prices, and advertise availability, while buyers can easily search, filter, and connect with farmers to purchase fresh goods.
+**AgriLink** is a web platform that connects smallholder farmers directly with buyers such as market vendors, restaurants, and households, eliminating the need for middlemen who take large cuts of farmers' profits.
 
-Farmers often face challenges such as:
-
-* **Limited access to buyers** beyond their immediate community.
-* **Dependence on middlemen** who take a large share of profits.
-* **Lack of visibility** on fair pricing and market demand.
-
-**AgriLink** addresses these issues by creating:
-
-* A **digital marketplace** for direct farmer-to-buyer transactions.
-* Simple **tools for farmers** to advertise and manage their products.
-* A transparent platform for **buyers to discover fresh produce** at competitive prices.
-
-This solution empowers farmers economically, increases market efficiency, and improves food accessibility for communities.
-
+A farmer may need to contact multiple middlemen to sell their produce, accept reduced prices due to limited market access, and compete with other farmers through the same intermediaries, all while having no direct relationship with the end buyers. This constant dependence makes it easy to miss better market opportunities or fair pricing. We want to eliminate the widespread frustrations that we and farmers in our communities experience when trying to access fair markets, build direct buyer relationships, and get reasonable prices for their hard work. Relying on multiple disconnected middlemen to reach different buyer segments creates unnecessary costs and managing all of these relationships is inefficient and reduces farmers' profits.
 
 ## For Whom?
 
-**Target Users:**
-
-* **Smallholder farmers** – to list produce, reach new buyers, and earn fair prices.
-* **Market vendors and restaurants** – to source fresh produce directly from farmers.
-* **Households** – to buy farm products without relying on middlemen.
-* **NGOs and agricultural cooperatives** – to connect and support farmer groups.
-
+The platform is designed with a primary focus on smallholder farmers. Farmers can list their produce, set fair prices, and directly connect with buyers to increase their profits. Market vendors, restaurant owners, and households can also benefit from this platform, where they can source fresh produce directly from farmers, build reliable supply relationships, and access quality products at better prices.
 
 ## How?
 
-From an end-user’s perspective, **AgriLink** will offer:
+Instead of relying on middlemen and limited local markets, AgriLink brings farmers and buyers together in a direct, digital marketplace. When a farmer logs in, they have a personalized dashboard showing them all their listed products and buyer inquiries in one place.
 
-* **Farmer Profiles & Listings** – Farmers register, upload product details (name, quantity, price, availability), and add photos.
-* **Product Search & Filters** – Buyers search by product type, price range, or location.
-* **Buyer-Farmer Communication** – Built-in contact system (phone/email integration) for direct negotiation.
-* **Basic Dashboard** – Farmers track listed products and monitor buyer interest.
-
-
+From the user-end perspective, AgriLink simplifies the buying and selling experience with farmer profiles and product listings, convenient search and filtering for buyers, direct communication between farmers and buyers, and transparent pricing without middleman markups.
 
 ## Scope
 
-AgriLink should be scoped appropriately for the semester project:
+This project fits well within a semester timeframe as it requires basic web development skills we can learn and apply. The main features include user registration, a database for storing product listings, search functionality, and simple messaging between users. We aim to create a working platform that demonstrates how farmers and buyers can connect directly online. For this initial version, we'll focus on the core marketplace features - letting farmers list products and communicate with buyers - while leaving out more complex systems like payment processing and delivery coordination.
 
-* Requires user authentication, farmer/buyer roles, database storage for products, and searchable/filterable listings.
-* Payment integration and logistics (delivery) will be excluded in the MVP. The initial focus will be on listings, search, and farmer–buyer connection. Advanced features (e.g., ratings, analytics, mobile money) can be considered in future iterations.
 
 ## Team
 * Godbless Osei
