@@ -48,7 +48,6 @@ Buyer-Farmer Communication – Simple contact system (e.g., phone/email integrat
 
 Basic Dashboard – Farmers can track what they have listed and see buyer interest.
 
-Example: A tomato farmer in Kumasi lists their harvest for the week. A restaurant in Accra searches “fresh tomatoes,” filters by region and price, and contacts the farmer directly. Without AgriLink, this connection would be difficult or impossible.
 
 
 # Team Members
